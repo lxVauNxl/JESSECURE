@@ -58,8 +58,8 @@ const faqs = [
 
 const testimonials = [
   {
-    name: "Reinier",
-    video: "/vid/user1.mp4",
+    name: "user1",
+    video: "/vid/user.mp4",
     image: "/img/user1.jpg",
     text: "Since starting this consultation, I learned how to manage my money properly.",
   },
